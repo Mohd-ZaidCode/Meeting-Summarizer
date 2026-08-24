@@ -3,6 +3,8 @@
 Upload a meeting recording and get a **timestamped transcript**, an **executive summary with key decisions**, and a checklist of **action items** (owner + due date when the conversation mentioned them).
 
 This project is a full-stack implementation of the *Meeting Summarizer* brief:
+<img width="1598" height="891" alt="image" src="https://github.com/user-attachments/assets/1f9e96ad-853f-4513-bfa4-1d59dbf6e167" />
+
 
 | Requirement | How it is implemented |
 | --- | --- |
